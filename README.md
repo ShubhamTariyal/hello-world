@@ -1,3 +1,1 @@
-# hello-world
-Learning
-Just some random text.
+Learning Git and Github
